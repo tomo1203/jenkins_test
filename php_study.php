@@ -1,5 +1,11 @@
 <?php
 
+$a="Hello";
+$b="world";
+
+echo "$a, $b";
+$space=''.PHP_EOL;
+
 intf( "8/2=%d\n", 8/2); //除算
 printf( "1+5=%d\n", 1+5); //加算
 printf( "7-3=%d\n", 7-3); //減算
