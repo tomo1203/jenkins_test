@@ -32,7 +32,8 @@
             
             <?php
                 }
-            ?>   
+?>
+
         </table>
     </div>
 </body>
